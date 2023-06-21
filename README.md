@@ -1,2 +1,3 @@
 # MyCSharpProjects
-C# Dili Çalışırken Geliştirdiğim Projeler
+
+C# Diline Çalışırken Geliştirmiş Olduğum Projeler Bu Repository'de Yer Almaktadır.
