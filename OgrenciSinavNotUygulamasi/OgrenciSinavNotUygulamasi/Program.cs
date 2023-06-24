@@ -10,11 +10,13 @@ namespace OgrenciSinavNotUygulamasi
     {
         static void Main(string[] args)
         {
+
+            // Double: Ondalıklı sayılar için kullanılır. Kod kısmında . ile değer girilirken console ekranında değer , ile görünür. Double değer, a = 5, a = 5d, a = 5D şeklinde girilir.
             Console.WriteLine("*** Öğrenci Sınav Not Uygulaması ***");
             Console.WriteLine();
 
             string adi, soyadi, bolum, ders;
-            int vize, final, ortalama;
+            double vize, final, ortalama;
 
             Console.Write("Ad: ");
             adi = Console.ReadLine();
@@ -39,12 +41,12 @@ namespace OgrenciSinavNotUygulamasi
             Console.WriteLine("--- Notlar ---");
             Console.WriteLine();
             Console.Write("Vize Notu: ");
-            vize = Convert.ToInt32(Console.ReadLine());
+            vize = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine();
 
             Console.Write("Final Notu: ");
-            final = Convert.ToInt32(Console.ReadLine());
+            final = Convert.ToDouble(Console.ReadLine());
 
             ortalama = (((vize * 40)/100) + ((final * 60)/100));
 
