@@ -12,6 +12,7 @@ namespace OgrenciSinavNotUygulamasi
         {
 
             // Double: Ondalıklı sayılar için kullanılır. Kod kısmında . ile değer girilirken console ekranında değer , ile görünür. 
+            // Double değer, console ekranında klavyeden girlirse virgülle, kod ekranından girilirse nokta ile girilmelidir. 
             // Double değer, a = 5, a = 5d, a = 5D şeklinde girilir.
             Console.WriteLine("*** Öğrenci Sınav Not Uygulaması ***");
             Console.WriteLine();
