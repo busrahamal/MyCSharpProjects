@@ -1,3 +1,3 @@
 # MyCSharpProjects
 
-C# Diline Çalışırken Geliştirmiş Olduğum Projeler Bu Repository'de Yer Almaktadır.
+C# Diline Çalışırken Geliştirdiğim Console Projeleri Bu Repository'de Yer Almaktadır.
