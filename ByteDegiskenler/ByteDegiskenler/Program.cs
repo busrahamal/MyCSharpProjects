@@ -22,6 +22,16 @@ namespace ByteDegiskenler
 
             //ByteKullanicidanDegerAlma();
 
+            ByteAtama();
+
+            Console.Read();
+
+
+
+        }
+
+        private static void ByteAtama()
+        {
             byte sayi1, sayi2, carpim;
 
             Console.Write("1. Sayı: ");
@@ -30,11 +40,6 @@ namespace ByteDegiskenler
             sayi2 = Convert.ToByte(Console.ReadLine());
             carpim = Convert.ToByte(sayi1 * sayi2);
             Console.WriteLine("{0} x {1} = {2}", sayi1, sayi2, carpim);
-
-            Console.Read();
-
-
-
         }
 
         private static void ByteKullanicidanDegerAlma()
