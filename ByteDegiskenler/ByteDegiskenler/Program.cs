@@ -15,6 +15,11 @@ namespace ByteDegiskenler
             // 255'ten daha büyük, 0'dan daha küçük değerler vereceksek int kullanmalıyız.
             // Yapılan işlemin sonucu da 255 ten büyük, 0'dan küçük olmamalıdır. Bu durumda int kullanılmalıdır. 
 
+            // Sbyte : -128 ile +127 arasında değer alır.
+            // S = Signed yani imzalanmış demektir. Başında S olan değişken tipleri negatif değerler de alabilir.
+            // Byte da Sbyte da 256 karakter alır. Byte 0 - 255, Sbyte ise -128 - +127 ye kadar değer alır. 
+            // SByte'ın kullanım şekli Byte ile aynıdır.
+
             //ByteKullanicidanDegerAlma();
 
             byte sayi1, sayi2, carpim;
