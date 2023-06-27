@@ -39,6 +39,7 @@ namespace DegiskenlerdeMinMaxValue
             Console.WriteLine("Int Maksimum Değer: "    + int.MaxValue);
             Console.WriteLine();
 
+            //Kod kısmında ondalıklı değer girerken m suffixini alır. Hem virgüllü hem de tam sayı değerleri kapsar.
             Console.WriteLine("Decimal Minimum Değer: " + decimal.MinValue);
             Console.WriteLine("Decimal Maksimum Değer: "+ decimal.MaxValue);
             Console.WriteLine();         
