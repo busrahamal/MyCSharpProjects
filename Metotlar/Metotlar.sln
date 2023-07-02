@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{915BF838-7EAE-4CCE-B8BD-5053C80B9F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915BF838-7EAE-4CCE-B8BD-5053C80B9F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915BF838-7EAE-4CCE-B8BD-5053C80B9F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915BF838-7EAE-4CCE-B8BD-5053C80B9F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915BF838-7EAE-4CCE-B8BD-5053C80B9F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45B5194C-CB66-4C07-BFDB-976B927F1238}
+	EndGlobalSection
+EndGlobal
