@@ -13,6 +13,7 @@ namespace SinifNiteliklerineKlavyedenDegerGirisi
             Kisiler k = new Kisiler();
             Console.WriteLine(" ***** Kişi Bilgileri ***** ");
             Console.WriteLine();
+            Console.WriteLine();
             Console.Write("Id Giriniz: ");
             k.id = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine();
