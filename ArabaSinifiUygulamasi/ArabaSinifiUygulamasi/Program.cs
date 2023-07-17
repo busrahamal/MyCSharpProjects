@@ -13,6 +13,7 @@ namespace ArabaSinifiUygulamasi
             /* Yeni Sınıf Ekleme Yöntemleri
              
             1- Project / Add Class / Class / İsim ver.cs / Add
+            2- View / Solution Explorer / projenin üstüne Sağ tık / Add / Class
              
              */
 
